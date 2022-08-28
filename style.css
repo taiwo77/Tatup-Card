@@ -1,0 +1,239 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto";
+}
+body{
+    background-color: #e5e5e5;
+    text-align: center;
+    
+}
+
+.logo-text{
+    margin-right: px;
+}
+.number{
+    position: absolute;
+    width: 95px;
+    height: 16px;
+    left: 370px;
+    top: 212.6px;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 16px;
+    color: #000000;
+    font-style: normal;
+}
+
+.vector-image{
+    width: 13.33px;
+    height: 13.33px;
+    top: 3.33px;
+    left: 145px;
+    color: #ff4848 74%;
+    background-color: rgba(255, 72, 72, 0.74);
+    position: absolute;
+    margin: 44.37%;
+}
+
+.polygon{
+    width: 122.5px;
+    height: 145px;
+    top: 41px;
+    left: 43px;
+    background-color: rgb(245, 236, 237);
+    background-image: none;
+    margin-right: 260px;
+    margin-left: 50px;
+    padding-top: 20px;
+    
+    
+}
+.tatup-desc{
+    margin-right: 215px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    font-weight: bolder;
+    font-size: 14px;
+    line-height: 16.41px;
+    width: 250px;
+    color: #000000;
+    position: absolute;
+}
+
+.tatup-1{
+    margin: 40px 0px 0px 250px;
+    width: 471px;
+    height: 258.5px;
+    background-color: rgb(245, 236, 237);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    padding-top: 30px;
+    display: flex;
+    margin-bottom: 50px;
+
+}
+.cash-desc{
+    left: 290px;
+    top: 32px;
+    position: absolute;
+}
+.cdc{
+    width: 150px;
+    height: 21px;
+    font-weight: bold;
+    line-height: 21.09px;
+    color: #ff4848;
+    font-style: normal;
+}
+.n100{
+    width: 116px;
+    height: 56px;
+    top: 99px;
+    left: 295px;
+    font-size: 48px;
+    font-weight: bold;
+    font-style: normal;
+    color: #ff4848;
+    line-height: 56.25px;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.token{
+    width: 471px;
+    height: 31px;
+    left: 0px;
+    top: 227px;
+    position: absolute;
+    background-color: #ff1515;
+    color: #ffffff;
+    padding-top: 5px;
+}
+.tatup-2{
+    width: 471px;
+    height:258.5px;
+    background-color: #ffffff;
+    left: 0px;
+    top: 0px;
+    margin-top: 270px;
+    padding-right: 471px;
+    margin-right: 100px;
+    position: absolute;
+    padding-top: 12px;
+    display: flex;
+    
+}
+.blue-rectangle{
+    background-color: white;
+    background-image: none;
+    width: 369px;
+    height: 75px;
+    position: absolute;
+    color: #32a2e1;
+}
+.white-rectangle{
+    width: 200px;
+    height: 30px;
+    top: 34px;
+    left: 90px;
+    position: absolute;
+}
+.logo-image{
+    width: 75px;
+    height: 41px;
+    top: 28px;
+    left: 365px;
+    position: absolute;
+}
+.pin{
+    width: 40px;
+    height: 28px;
+    top: 36px;
+    left: 53px;
+    font-weight: 500;
+    size: 24px;
+    line-height: 28.13px;
+    position: absolute;
+    color: white;
+}
+.usage{
+    width: 168px;
+    height: 17px;
+    top: 75px;
+    left: 120px;
+    font-weight: 300px;
+    font-size: 17px;
+    line-height: 18.09px;
+    position: absolute;
+    color: #000000;
+    text-decoration: underline;
+}
+.dial{
+    width: 317px;
+    height: 21px;
+    left: 76px;
+    top: 106px;
+    line-height: 21px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    position: absolute;
+    color: #000000;
+}
+.pieces{
+    position: absolute;
+    width: 105px;
+    height: 15px;
+    left: 33px;
+    top: 195px;
+    font-style: normal;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 15.2px;
+    color: #000000;
+    
+    
+}
+.batch{
+    position: absolute;
+    width: 128px;
+    height: 15px;
+    left: 30px;
+    top: 218px;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500px;
+    line-height: 15.2px;
+    color: #000000;
+
+}
+.n1000{
+    position: absolute;
+    width: 126px;
+    height: 35px;
+    left: 175px;
+    top: 154px;
+    font-style: normal;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    color: #000000;
+
+}
+.barcode{
+    position: absolute;
+    width: 120px;
+    height: 30px;
+    left: 348px;
+    top: 211px;
+}
+.line-1{
+    position: absolute;
+    width: 471px;
+    height: 57px;
+    top: 193px;
+    border: 0.01px solid;
+
+}
